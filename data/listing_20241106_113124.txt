@@ -1,0 +1,9 @@
+Neighborhood: Sunnyvale Heights
+Price: $950,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,500 sqft
+
+Description: Step into this modern retreat located in the sought-after Sunnyvale Heights neighborhood. This spacious 4-bedroom, 3-bathroom home features high-end finishes and an abundance of natural light throughout. The chef's kitchen is equipped with stainless steel appliances, granite countertops, and a large island perfect for entertaining. The master suite offers a luxurious escape with a spa-like ensuite bathroom and a walk-in closet. Relax in the backyard oasis, complete with a patio and lush landscaping. Enjoy the perfect blend of comfort and sophistication in this stunning Sunnyvale Heights residence.
+
+Neighborhood Description: Sunnyvale Heights is a vibrant community known for its family-friendly atmosphere and top-rated schools. Residents enjoy easy access to nearby parks, hiking trails, and recreational areas. Explore the local farmers' market or grab a bite to eat at the trendy cafes and restaurants lining the streets. With convenient access to major highways and public transportation, commuting to Silicon Valley and beyond is a breeze. Experience the best of suburban living in Sunnyvale Heights.

@@ -1,0 +1,9 @@
+Neighborhood: Lakeview Heights
+Price: $950,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,500 sqft
+
+Description: Step into luxury in this stunning 4-bedroom, 3-bathroom home located in the sought-after Lakeview Heights neighborhood. The spacious floor plan features high ceilings, a gourmet kitchen with stainless steel appliances, and luxurious finishes throughout. The master suite includes a spa-like bathroom with a soaking tub and a walk-in closet. Entertain guests in the beautifully landscaped backyard with a patio perfect for outdoor dining. This home offers the perfect blend of modern elegance and comfort.
+
+Neighborhood Description: Lakeview Heights is a prestigious community known for its upscale homes and picturesque surroundings. Residents enjoy easy access to top-rated schools, fine dining restaurants, and boutique shopping. Explore the nearby Lakeview Park for recreational activities or take a short drive to the scenic Lakeview Marina for boating and water sports. With a vibrant cultural scene and convenient location, Lakeview Heights offers a luxurious lifestyle within reach.
